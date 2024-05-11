@@ -18,13 +18,27 @@ rockrBlog.db  (base de datos)
 dataBaseCreation.py (script para re-crear la base de datos de ser necesario)
 rokrBlog.py    (API)
 static
+
 --> css
-    --> main.css (hoja de estilos)
+
+>    --> main.css (hoja de estilos)
+
+    
 --> js
-    --> index.js (script de js)
+
+
+>    --> index.js (script de js)
+
+    
 templates
+
+
 --> index.html  (pagina principal)
+
+
 --> article.html (plantilla utilizada para cargar los archivos)
+
+
 --> form.html (archivo para pruebas del popup form)
 
 
