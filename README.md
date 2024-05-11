@@ -15,9 +15,16 @@ HTML
 El blog esta pensado para ser montado como una webapp en flask por lo que se debe respetar el sistema de archivos
 
 rockrBlog.db  (base de datos)
+
+
 dataBaseCreation.py (script para re-crear la base de datos de ser necesario)
+
+
 rokrBlog.py    (API)
+
+
 static
+
 
 --> css
 
